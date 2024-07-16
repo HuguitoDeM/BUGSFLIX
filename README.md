@@ -61,3 +61,5 @@ DB_HOST = 127.0.0.1
 DB_NAME = films
 DB_PORT =  5432
 ```
+tener en cuenta que si los datos no son los correctos de la base de datos la aplicacion no mostrara ninguna pelicula
+para agregar peliculas puedes hacerlo directamente en el DB o utilizando el metodo post con una aplicion como por ejemplo postman
