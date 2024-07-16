@@ -45,8 +45,8 @@ creamos un .env en el backend esto seria un ejemplo de como seria:
 
 ```bash
 port = PuertoDeLaApp
-DB_USER = UsuarioBaseDeDatosPostrgresql
-DB_PASSWORD = ContraseñaDelUsuarioPosrgresql
+DB_USER = UsuarioBaseDeDatosPostgresql
+DB_PASSWORD = ContraseñaDelUsuarioPostgresql
 DB_HOST = HostingDeLaBaseDeDatos
 DB_NAME = NombreBaseDeDatos
 DB_PORT =  PuertoDeLaBaseDeDatos
