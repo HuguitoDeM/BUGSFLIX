@@ -41,7 +41,7 @@ cd frontend
 Una vez instaladas las dependencias, para correr la aplicación se debe escribir en terminal dentro de frontend: npm run dev
 ## .env
 
-en el .env esto seria un ejemplo de como seria: 
+creamos un .env en el backend esto seria un ejemplo de como seria: 
 
 ```bash
 port = PuertoDeLaApp
